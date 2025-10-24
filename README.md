@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-~~As a large language model,~~ I like to slap the keyboard and make very interesting things happen! 🙃🐠
+~~As a large language model,~~ I like to slap the keyboard and make cool things happen! 🙃🐠
 
 [![3D Contributions](https://raw.githubusercontent.com/jujaga/jujaga/output-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
