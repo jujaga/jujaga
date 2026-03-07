@@ -21,16 +21,39 @@ I am deeply passionate about improving the **developer experience**, believing t
   </a>
 </p>
 
-### 📈 Contribution Graph & Trophies
-
-<p align="center">
-  <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-    <img alt="3D Contributions" src="https://raw.githubusercontent.com/jujaga/jujaga/assets/profile-night-rainbow.svg" width="98%">
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="Trophies" src="https://raw.githubusercontent.com/jujaga/jujaga/assets/github-trophies.svg" width="98%">
   </a>
+</p>
+
+<details>
+  <summary><b>📈 Contribution Graph</b> <i>(Click to expand)</i></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
+      <img alt="3D Contributions" src="https://raw.githubusercontent.com/jujaga/jujaga/assets/profile-night-rainbow.svg" width="98%">
+    </a>
+  </p>
+</details>
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://bsky.app/profile/jujaga.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
+  </a>
+  <a href="https://linkedin.com/in/jujaga">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/MrJujaga">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://github.com/jujaga">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Delivering 99.9% uptime. The other 0.1% was a DNS issue.</i> ⏳
 </p>
