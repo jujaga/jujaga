@@ -39,6 +39,17 @@ jobs:
           path: profile-3d-contrib/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate Streak Stats
+        # uses: muhammad-fiaz/github-readme-streak-stats@4a189450bbd0e143b9ed0f649500d1bc7b8c34f1 # v1.0.1
+        uses: qhanson55/github-readme-streak-stats@f75f288dfefc6a2b9e780bb004766d67720b3e71 # feat/weekly-streak
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: tokyonight
+          HIDE_BORDER: "true"
+          WEEK_STREAK: "true"
+          OUTPUT_PATH: profile-3d-contrib/github-streak.svg
+
       - name: Push SVGs to branch
         uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
         env:
