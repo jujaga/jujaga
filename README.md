@@ -17,7 +17,7 @@ I am deeply passionate about improving the **developer experience**, believing t
     <img alt="GitHub Stats" src="https://raw.githubusercontent.com/jujaga/jujaga/assets/github-stats.svg" width="49%" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=jujaga&theme=tokyonight&hide_border=true&mode=weekly" width="49%" />
+    <img alt="GitHub Streak" src="https://raw.githubusercontent.com/jujaga/jujaga/assets/github-streak.svg" width="49%" />
   </a>
 </p>
 

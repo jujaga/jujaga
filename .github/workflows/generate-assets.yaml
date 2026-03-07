@@ -41,7 +41,7 @@ jobs:
 
       - name: Generate Streak Stats
         # uses: muhammad-fiaz/github-readme-streak-stats@4a189450bbd0e143b9ed0f649500d1bc7b8c34f1 # v1.0.1
-        uses: qhanson55/github-readme-streak-stats@f75f288dfefc6a2b9e780bb004766d67720b3e71 # feat/weekly-streak
+        uses: qhanson55/github-readme-streak-stats@d88cb6e9cfa625432ee56f559bc687e0e8acf749 # feat/weekly-streak
         with:
           USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
